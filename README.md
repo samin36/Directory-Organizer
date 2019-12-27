@@ -1,7 +1,7 @@
 # Directory-Organizer
 A python script that organizes files by moving them to appropriate folders in the current directory. 
 
-To use the script, just type in: "python organizer.py" in your terminal.
+To use the script, just type in: "python organize.py" in your terminal.
 As of right now, the supported filetypes are images(jpg, png, gif, ico), 
 documents(word, powerpoint, text, pdf, zip), and applications(exe).
 If you want to add more filetypes, in organizer.py, add another entry
